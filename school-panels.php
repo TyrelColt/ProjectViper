@@ -16,7 +16,7 @@
 <nav class="navbar navbar-main navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
-            <a class="navbar-brand" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><span class="glyphicon glyphicon-apple"></span></a>
+            <a class="navbar-brand" href="/ProjectViper/school-panels.php"><span class="glyphicon glyphicon-apple"></span></a>
         </div>
         <ul class="nav navbar-nav navbar-right">
             <li class="dropdown">
@@ -41,6 +41,7 @@
         </form>
     </div>
 </nav>
+<div class="space"></div>
 
 <!-- Navigation ends... -->
 

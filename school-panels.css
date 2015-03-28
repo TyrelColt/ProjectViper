@@ -1,13 +1,13 @@
-
-/* Panel Styling */
+/* Panels */
 
 .panel-default {
-    margin: 70px 200px;
+    margin: 0 175px;
+    background: #fff;
+    border-color: #ccc;
 }
 
 .panel-heading a {
     font-weight: bold;
-    text-decoration: no-underline;
     color: #f14444;
 }
 
@@ -19,16 +19,17 @@
     color: #cc1b2d;
 }
 
-
-
-
-/* Navigation Container Styling */
+/* Navigation Container */
 
 nav.navbar-main {
     background: #fff;
     border-color: #ccc;
     box-shadow: 0 0 2px 0 #ccc;
     margin-bottom: 100px;
+}
+
+.space {
+    margin: 75px;
 }
 
 /* Navigation Link/Logo Styles */
@@ -48,7 +49,7 @@ nav.navbar-main ul.navbar-nav a:active {
     background: #fff;
 }
 
-/* Dropdown Menu Styles */
+/* Dropdown Menu */
 
 nav.navbar-main ul.dropdown-menu {
     border: 0; background: #fff;
